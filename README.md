@@ -5,7 +5,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 # The Redux Crash Course Repo
 
 This is a basic repo backing a crash course series I am writing for Redux.
-https://medium.com/@jdc91xt/the-redux-crash-course-7759b09500fa?fbclid=IwAR10M6bWfu8uZ8mDb7UZZOQ2su6S_Zq3sHwb1pw6Qe-R4LR8w-Rlwd-l8G4
+
+-Post 1 - https://medium.com/@jdc91xt/the-redux-crash-course-7759b09500fa?fbclid=IwAR10M6bWfu8uZ8mDb7UZZOQ2su6S_Zq3sHwb1pw6Qe-R4LR8w-Rlwd-l8G4
 
 # Available Scripts
 
